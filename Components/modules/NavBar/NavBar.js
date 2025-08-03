@@ -83,7 +83,7 @@ function Navbar() {
                         <Link href="/about" className={`${styles.nav_link}`}>
                             About
                         </Link>
-                        <Link href="/services" className={`${styles.nav_link}`}>
+                        <Link href="/service" className={`${styles.nav_link}`}>
                             Services
                         </Link>
                         <Link href="/menu" className={`${styles.nav_link}`}>
